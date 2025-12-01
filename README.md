@@ -1,2 +1,17 @@
-# havas-sales-dashboard
-Havas uchun yaratilgan savdo va narxlarni tahlil qiluvchi interaktiv dashboard. Hududlar bo‘yicha o‘rtacha narxlar, mijozlar kesimidagi narxlar, eng past narxlar va boshqa ko‘rsatkichlarni grafiklar orqali qulay tarzda ko‘rsatib beradi.
+🚀 Asosiy imkoniyatlar:
+
+📍 Hududlar bo‘yicha o‘rtacha narxlar
+
+🧑‍💼 Har bir mijoz kesimidagi narxlar tahlili
+
+🍩 Viloyatlar bo‘yicha minimal narxlar doira diagrammasi
+
+📈 Trend chizig‘i orqali narxlarning solishtirilishi
+
+🌱 Yengil, sodda va intuitiv dizayn
+
+🎨 Havas brendi ranglariga moslashtirilgan vizual interfeys
+
+🛠️ Texnologiyalar:
+
+• Power BI/Pandas
