@@ -1,17 +1,11 @@
-🚀 Asosiy imkoniyatlar:
+🚀 Key Features:
 
-📍 Hududlar bo‘yicha o‘rtacha narxlar
+📍 Average prices by region
+🧑‍💼 Customer-level price analysis
+🍩 Minimum prices by province shown in a donut chart
+📈 Price comparison illustrated with a trend line
+🌱 Lightweight, simple, and intuitive design
+🎨 Visual interface customized to match the Havas brand colors
 
-🧑‍💼 Har bir mijoz kesimidagi narxlar tahlili
-
-🍩 Viloyatlar bo‘yicha minimal narxlar doira diagrammasi
-
-📈 Trend chizig‘i orqali narxlarning solishtirilishi
-
-🌱 Yengil, sodda va intuitiv dizayn
-
-🎨 Havas brendi ranglariga moslashtirilgan vizual interfeys
-
-🛠️ Texnologiyalar:
-
-• Power BI/Pandas
+🛠️ Technologies:
+• Power BI / Pandas
